@@ -1,0 +1,5 @@
+{
+  "name": "QuickGPT",
+  "description": "An intelligent AI assistant powered by Google Gemini, featuring a sleek dark-themed UI, chat history management, and multi-model support.",
+  "requestFramePermissions": []
+}
