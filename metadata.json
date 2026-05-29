@@ -1,0 +1,6 @@
+{
+  "name": "Quick GPT",
+  "description": "An elegant ChatGPT clone featuring multi-tier subscriptions (Free, Basic Pro, Pro), an AI image generator with style parameters, offline storage, and built-in interactive simulated Stripe payment checkouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
